@@ -1,0 +1,122 @@
+Python 3.6.2rc1 (heads/3.6:268e1fb, Jun 17 2017, 19:01:44) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Vismay\AppData\Local\Programs\Python\Python36\text-predict.py 
+------------------------------------------------------------------------------------------------------------------------------
+Loaded training data...
+
+Iter= 1000, Average Loss= 4.673461, Average Accuracy= 3.80%
+['well', ',', 'but'] - [who] vs [could]
+Iter= 2000, Average Loss= 3.940518, Average Accuracy= 7.90%
+['the', 'neighbourhood', '.'] - [this] vs [until]
+Iter= 3000, Average Loss= 3.099389, Average Accuracy= 15.20%
+['we', 'should', 'always'] - [know] vs [the]
+Iter= 4000, Average Loss= 2.891006, Average Accuracy= 21.90%
+['small', 'bell', 'be'] - [procured] vs [in]
+Iter= 5000, Average Loss= 2.560447, Average Accuracy= 26.40%
+['we', 'could', 'easily'] - [escape] vs [to]
+Iter= 6000, Average Loss= 2.274136, Average Accuracy= 30.60%
+['enemy', 'approaches', 'us'] - [.] vs [her]
+Iter= 7000, Average Loss= 2.252371, Average Accuracy= 29.20%
+['our', 'chief', 'danger'] - [consists] vs [,]
+Iter= 8000, Average Loss= 2.110525, Average Accuracy= 34.30%
+['he', 'thought', 'would'] - [meet] vs [danger]
+Iter= 9000, Average Loss= 1.920659, Average Accuracy= 37.90%
+['this', ',', 'and'] - [some] vs [cat]
+Iter= 10000, Average Loss= 1.923520, Average Accuracy= 36.50%
+['could', 'take', 'to'] - [outwit] vs [outwit]
+Iter= 11000, Average Loss= 1.755961, Average Accuracy= 42.10%
+['a', 'general', 'council'] - [to] vs [to]
+Iter= 12000, Average Loss= 1.569848, Average Accuracy= 48.60%
+['said', 'it', 'is'] - [easy] vs [easy]
+Iter= 13000, Average Loss= 1.367083, Average Accuracy= 54.00%
+['cat', '?', 'the'] - [mice] vs [mice]
+Iter= 14000, Average Loss= 1.065824, Average Accuracy= 65.00%
+['applause', ',', 'until'] - [an] vs [spoke]
+Iter= 15000, Average Loss= 1.250535, Average Accuracy= 58.60%
+['this', 'proposal', 'met'] - [with] vs [with]
+Iter= 16000, Average Loss= 0.914472, Average Accuracy= 72.40%
+['this', 'means', 'we'] - [should] vs [should]
+Iter= 17000, Average Loss= 1.048217, Average Accuracy= 67.90%
+['cat', '.', 'by'] - [this] vs [this]
+Iter= 18000, Average Loss= 0.869983, Average Accuracy= 73.80%
+['to', 'propose', 'that'] - [a] vs [a]
+Iter= 19000, Average Loss= 0.826523, Average Accuracy= 76.20%
+['some', 'signal', 'of'] - [her] vs [her]
+Iter= 20000, Average Loss= 0.813346, Average Accuracy= 76.50%
+['you', 'will', 'all'] - [agree] vs [agree]
+Iter= 21000, Average Loss= 0.681091, Average Accuracy= 79.50%
+['thought', 'would', 'meet'] - [the] vs [the]
+Iter= 22000, Average Loss= 0.800703, Average Accuracy= 77.20%
+['at', 'last', 'a'] - [young] vs [young]
+Iter= 23000, Average Loss= 0.745291, Average Accuracy= 78.90%
+['the', 'cat', '.'] - [some] vs [some]
+Iter= 24000, Average Loss= 0.553678, Average Accuracy= 84.30%
+['a', 'general', 'council'] - [to] vs [to]
+Iter= 25000, Average Loss= 0.693587, Average Accuracy= 81.30%
+['propose', 'impossible', 'remedies'] - [.] vs [.]
+Iter= 26000, Average Loss= 0.563506, Average Accuracy= 84.70%
+['at', 'one', 'another'] - [and] vs [and]
+Iter= 27000, Average Loss= 0.630347, Average Accuracy= 83.70%
+['up', 'and', 'said'] - [that] vs [he]
+Iter= 28000, Average Loss= 0.531037, Average Accuracy= 85.20%
+['this', 'proposal', 'met'] - [with] vs [with]
+Iter= 29000, Average Loss= 0.544226, Average Accuracy= 84.60%
+['know', 'when', 'she'] - [was] vs [was]
+Iter= 30000, Average Loss= 0.507782, Average Accuracy= 87.20%
+['be', 'procured', ','] - [and] vs [and]
+Iter= 31000, Average Loss= 0.530503, Average Accuracy= 86.80%
+['venture', ',', 'therefore'] - [,] vs [,]
+Iter= 32000, Average Loss= 0.540160, Average Accuracy= 84.30%
+['her', 'approach', ','] - [we] vs [we]
+Iter= 33000, Average Loss= 0.534494, Average Accuracy= 85.40%
+['we', 'could', 'receive'] - [some] vs [some]
+Iter= 34000, Average Loss= 0.438325, Average Accuracy= 88.70%
+['danger', 'consists', 'in'] - [the] vs [which]
+Iter= 35000, Average Loss= 0.448458, Average Accuracy= 88.70%
+['a', 'proposal', 'to'] - [make] vs [make]
+Iter= 36000, Average Loss= 0.460706, Average Accuracy= 89.40%
+[',', 'and', 'some'] - [said] vs [said]
+Iter= 37000, Average Loss= 0.417311, Average Accuracy= 89.20%
+['enemy', ',', 'the'] - [cat] vs [cat]
+Iter= 38000, Average Loss= 0.469688, Average Accuracy= 87.90%
+['consider', 'what', 'measures'] - [they] vs [could]
+Iter= 39000, Average Loss= 0.369416, Average Accuracy= 90.50%
+['the', 'mice', 'looked'] - [at] vs [at]
+Iter= 40000, Average Loss= 0.454753, Average Accuracy= 87.90%
+['who', 'is', 'to'] - [bell] vs [bell]
+Iter= 41000, Average Loss= 0.419849, Average Accuracy= 89.10%
+['general', 'applause', ','] - [until] vs [until]
+Iter= 42000, Average Loss= 0.484625, Average Accuracy= 86.90%
+['general', 'applause', ','] - [until] vs [until]
+Iter= 43000, Average Loss= 0.372423, Average Accuracy= 90.50%
+[',', 'and', 'could'] - [easily] vs [easily]
+Iter= 44000, Average Loss= 0.347770, Average Accuracy= 91.30%
+['.', 'by', 'this'] - [means] vs [means]
+Iter= 45000, Average Loss= 0.377363, Average Accuracy= 90.20%
+['be', 'procured', ','] - [and] vs [and]
+Iter= 46000, Average Loss= 0.392064, Average Accuracy= 90.40%
+[',', 'therefore', ','] - [to] vs [to]
+Iter= 47000, Average Loss= 0.330313, Average Accuracy= 92.20%
+['of', 'her', 'approach'] - [,] vs [,]
+Iter= 48000, Average Loss= 0.320278, Average Accuracy= 91.50%
+['us', '.', 'now'] - [,] vs [,]
+Iter= 49000, Average Loss= 0.296125, Average Accuracy= 93.10%
+['our', 'chief', 'danger'] - [consists] vs [in]
+Iter= 50000, Average Loss= 0.418197, Average Accuracy= 93.70%
+[',', 'that', 'our'] - [chief] vs [chief]
+Optimization Finished!
+-------------------------------------------------------------------------------------------
+
+3 words: this proposal met
+this proposal met with
+3 words: we should always
+we should always know
+3 words: the mice had
+the mice had a
+3 words: mice had a
+mice had a general
+3 words: had a general
+had a general council
+3 words: a general council
+a general council to
